@@ -23,10 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akashgu42425241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashgu42425241" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash gupta" height="30" width="40" /></a>
-<a href="https://fb.com/akash gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-gupta-478323232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash gupta" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Akash-Gupta/pfbid02mRwE7ComJ5fKBZk2cCFFw7yq6MPHGGEve9KEK6KqCZvtMvdRRYDVsvfURS58JGUhl/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/skyygupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyygupta_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gaming boy java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming boy java" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gamingboyjava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming boy java" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
