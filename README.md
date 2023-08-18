@@ -1,5 +1,5 @@
 
-<img align="center" src="img.jpg" alt="background">
+<img align="center" src="img.jpg" alt="background" height="50%">
 
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
