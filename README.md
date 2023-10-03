@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashgu42425241" target="blank"><img src="https://img.shields.io/twitter/follow/akashgu42425241?logo=twitter&style=for-the-badge" alt="akashgu42425241" /></a> </p>
 
-- 🔭 I’m currently working on [football acedemy website](https://risingsunfootballacedemy.netlify.app/)
+- 🔭 I’m currently working on [football academy website](https:risingsunfootballacademy.netlify.app)
 
 - 🌱 I’m currently learning **react,node.js**
 
