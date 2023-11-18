@@ -1,5 +1,5 @@
 
-<img align="center" src="imgg.jpg" alt="background" height="50%">
+<img align="center" src="bgjpg.jpg" alt="background" height="50%">
 
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
