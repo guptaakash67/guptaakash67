@@ -5,11 +5,12 @@
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
 <a href="gif.mp4">
-<img align="right" src="
+<img align="right" src="" alt="img" width="400"  >
+  
 
-https://github.com/guptaakash67/guptaakash67/assets/101046917/7c1ba54f-8298-473f-96ea-e16eb56a07ff
+https://github.com/guptaakash67/guptaakash67/assets/101046917/ea6cd2c2-b19f-467d-acc0-3a7f314fab0f
 
-" alt="img" width="400"  >
+
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaakash67&label=Profile%20views&color=0e75b6&style=flat" alt="guptaakash67" /> </p>
