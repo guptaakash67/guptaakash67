@@ -5,7 +5,7 @@
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
 <a href="https://www.google.com/search?q=animated+coding+gif+stack+developer&sca_esv=583538769&tbm=isch&sxsrf=AM9HkKnL4dsoZMPFwLie8pCWvWrElSKJJA:1700281708213&source=lnms&sa=X&ved=2ahUKEwjRq_H52syCAxWCZ2wGHeY1DPoQ_AUoAnoECAIQBA&biw=1920&bih=963&dpr=1#imgrc=sGO0QsnlUm-eqM">
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw1VpPRjKGGVkJP4Vcn7sfWa&ust=1700368112409000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDU_I3bzIIDFQAAAAAdAAAAABAE" alt="" width="400"  >
+<img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" width="400"  >
 
 </a>
 
