@@ -5,7 +5,7 @@
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
 <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3AY5mKuw08mxobkC_ZNPMe&ust=1700365872549000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNil7OTSzIIDFQAAAAAdAAAAABAE">
-<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="img" width="400"  >
+<img align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2F1*yw0TnheAGN-LPneDaTlaxw.gif&tbnid=sGO0QsnlUm-eqM&vet=12ahUKEwiimbi608yCAxWzpekKHRsSB3UQMygjegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&docid=FKCKk_61yvarcM&w=750&h=400&q=animated%20coding%20gif&ved=2ahUKEwiimbi608yCAxWzpekKHRsSB3UQMygjegUIARC7AQ" alt="img" width="400"  >
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaakash67&label=Profile%20views&color=0e75b6&style=flat" alt="guptaakash67" /> </p>
