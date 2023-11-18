@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
-<a href="https://www.google.com/search?q=animated+coding+gif&oq=animated+coding+gif&aqs=chrome..69i57.147480110j0j15&sourceid=chrome&ie=UTF-8#imgrc=dbrfb5dvHO4gVM&imgdii=55jyr3BK5duBpM">
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3AY5mKuw08mxobkC_ZNPMe&ust=1700365872549000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNil7OTSzIIDFQAAAAAdAAAAABAE">
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="img" width="400"  >
 </a>
 
