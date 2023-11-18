@@ -5,7 +5,11 @@
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
 <a href="gif.mp4">
-<img align="right" src="gif.mp4" alt="img" width="400"  >
+<img align="right" src="
+
+https://github.com/guptaakash67/guptaakash67/assets/101046917/7c1ba54f-8298-473f-96ea-e16eb56a07ff
+
+" alt="img" width="400"  >
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaakash67&label=Profile%20views&color=0e75b6&style=flat" alt="guptaakash67" /> </p>
