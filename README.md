@@ -5,7 +5,7 @@
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
 <a href="https://www.google.com/search?sca_esv=583538769&sxsrf=AM9HkKldvGIgr4LXLIPP1imZoagmelOSIQ:1700279469774&q=animated+coding+gif&tbm=isch&chips=q:animated+coding+gif,g_1:software+engineer:s0Ak253fW4s%3D&usg=AI4_-kTK-o-xYFSk3f2ffYFLoENC0sMd7w&sa=X&ved=2ahUKEwi9_cHO0syCAxX2SmwGHc8yAb8QgIoDKAF6BAgVEBU&biw=1920&bih=963&dpr=1">
-<img align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2F1*yw0TnheAGN-LPneDaTlaxw.gif&tbnid=sGO0QsnlUm-eqM&vet=12ahUKEwiimbi608yCAxWzpekKHRsSB3UQMygjegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&docid=FKCKk_61yvarcM&w=750&h=400&q=animated%20coding%20gif&ved=2ahUKEwiimbi608yCAxWzpekKHRsSB3UQMygjegUIARC7AQ" alt="img" width="400"  >
+<img align="right" src="https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63" alt="img" width="400"  >
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaakash67&label=Profile%20views&color=0e75b6&style=flat" alt="guptaakash67" /> </p>
