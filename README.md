@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
-<a href="https://www.google.com/?authuser=0">
+<a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2F1*yw0TnheAGN-LPneDaTlaxw.gif&tbnid=sGO0QsnlUm-eqM&vet=12ahUKEwiimbi608yCAxWzpekKHRsSB3UQMygjegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&docid=FKCKk_61yvarcM&w=750&h=400&q=animated%20coding%20gif&ved=2ahUKEwiimbi608yCAxWzpekKHRsSB3UQMygjegUIARC7AQ">
 <img align="right" src="https://images.app.goo.gl/QmmQodVbnGxc8th98" alt="img" width="400"  >
 </a>
 
