@@ -5,11 +5,7 @@
 <h3 align="center">A passionate FULLSTACK WEB DEVELOPER from India</h3>
 
 <a href="gif.mp4">
-<img align="right" src="" alt="img" width="400"  >
-  
-
-https://github.com/guptaakash67/guptaakash67/assets/101046917/ea6cd2c2-b19f-467d-acc0-3a7f314fab0f
-
+<img align="right" src="https://github.com/guptaakash67/guptaakash67/assets/101046917/ea6cd2c2-b19f-467d-acc0-3a7f314fab0f" alt="img" width="400"  >
 
 </a>
 
