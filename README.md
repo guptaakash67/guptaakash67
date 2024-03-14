@@ -15,10 +15,10 @@
 
 - 🔭 I’m currently working on [football academy website](https://risingsunfootballacademy.netlify.app/)
 
-- 🌱 I’m currently learning **react,node.js**
+- 🌱 I’m currently learning **reactjs,node.js**
 
 - 👨‍💻 All of my projects are available at https://akashpersonalportfolio.vercel.app/
-- 📫 How to reach me **ag8108098867@gmail.com**
+- 📫 How to reach me **connect.guptaakash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
