@@ -17,8 +17,7 @@
 
 - 🌱 I’m currently learning **react,node.js**
 
-- 👨‍💻 All of my projects are available at https://akashguptaportfolio.netlify.app/
-
+- 👨‍💻 All of my projects are available at https://akashpersonalportfolio.vercel.app/
 - 📫 How to reach me **ag8108098867@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
