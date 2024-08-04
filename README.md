@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **reactjs,node.js**
 
-- 👨‍💻 All of my projects are available at https://akashpersonalportfolio.vercel.app/
+- 👨‍💻 All of my projects are available at https://akashportfolioo.vercel.app/
 - 📫 How to reach me **connect.guptaakash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
