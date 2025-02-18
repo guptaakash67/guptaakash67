@@ -13,9 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashgu42425241" target="blank"><img src="https://img.shields.io/twitter/follow/akashgu42425241?logo=twitter&style=for-the-badge" alt="akashgu42425241" /></a> </p>
 
-- 🔭 I’m currently working on [football academy website](https://risingsunfootballacademy.netlify.app/)
-
-- 🌱 I’m currently learning **reactjs,node.js**
+- 🔭 I’m currently working on [College website for LMS portal](https://github.com/guptaakash67/Ytiet)
 
 - 👨‍💻 All of my projects are available at https://akashportfolioo.vercel.app/
 - 📫 How to reach me **connect.guptaakash@gmail.com**
